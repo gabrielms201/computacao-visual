@@ -4,9 +4,8 @@
     {{end}}
     {{if ne .Site.Params.displayRecent false}}
     <div class="section"> 
-        <div class="section-title">Recent<br>
-            <a href="https://profkishimoto.github.io/compvis07n-2024-1/">Referência</a>
-        </div>
+        <a href="https://profkishimoto.github.io/compvis07n-2024-1/">Referência</a><br>
+        <div class="section-title">Recent</div>
         {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
         {{range first (default  4 .Site.Params.recentMax) (where $pages "Section" "ne" .Site.Params.microBlogSection)}}
             <div class="list-item">
