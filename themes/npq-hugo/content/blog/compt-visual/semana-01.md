@@ -1,6 +1,7 @@
 ---
 title: "Semana 01"
 date: 2024-03-02
+description: "Referência: https://profkishimoto.github.io/compvis07n-2024-1/"
 draft: false
 ShowToc: true
 ---
