@@ -1,2 +1,20 @@
-# semana 02
-blalblala
+---
+title: "Semana 02"
+date: 2024-03-02
+draft: false
+ShowToc: true
+---
+## **Semana 2: Online - Teoria (Aplicações de Computação Visual)**
+
+Ricardo Gabriel Marques dos Santos Ruiz - 10389321
+
+### Enunciado
+Agora que temos uma ideia do que é Computação Visual, faça uma pesquisa sobre aplicações de Computação Visual e, a partir do que você pesquisou, escolha pelo menos um exemplo de cada subárea (Computação Gráfica, Processamento de Imagens, Visão Computacional) que você gostou ou que chamou a sua atenção.
+
+Descreva cada aplicação entre 3-5 parágrafos (“começo, meio e fim”). Em seguida, explique porque você escolheu a aplicação.
+
+Lembre-se de incluir todas as referências consultadas (livros, links de artigos, vídeos, etc.) e identificar todas as pessoas do grupo.
+
+Publique o resultado dessa atividade no blog.
+
+### Resultado
