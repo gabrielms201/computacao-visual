@@ -2,6 +2,7 @@
 title: "Semana 02"
 date: 2024-03-02
 draft: false
+description: "Online - Teoria (Aplicações de Computação Visual)"
 ShowToc: true
 ---
 ## **Semana 2: Online - Teoria (Aplicações de Computação Visual)**
