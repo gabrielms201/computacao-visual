@@ -6,7 +6,10 @@ ShowToc: true
 ---
 ## **Semana 2: Online - Teoria (Aplicações de Computação Visual)**
 
-Ricardo Gabriel Marques dos Santos Ruiz - 10389321
+Ricardo Gabriel Marques dos Santos Ruiz - RA - 10389321
+Gabriel Augusto Ribeiro Gomes - RA - 
+Caio Cezar Oliveira Filardi do Carmo - RA
+Lucas Toneto Pires - RA - 
 
 ### Enunciado
 Agora que temos uma ideia do que é Computação Visual, faça uma pesquisa sobre aplicações de Computação Visual e, a partir do que você pesquisou, escolha pelo menos um exemplo de cada subárea (Computação Gráfica, Processamento de Imagens, Visão Computacional) que você gostou ou que chamou a sua atenção.
