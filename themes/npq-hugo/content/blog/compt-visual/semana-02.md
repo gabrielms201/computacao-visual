@@ -1,12 +1,11 @@
 ---
 title: "Semana 02"
-date: 2024-03-02
-description: https://profkishimoto.github.io/compvis07n-2024-1/
+date: 2024-03-10
 draft: false
+description: "Online - Teoria (Aplicações de Computação Visual)"
 ShowToc: true
 ---
 # **Semana 2: Online - Teoria (Aplicações de Computação Visual)**
-
 |                   Nome                  |    RA    |
 |:---------------------------------------:|:--------:|
 | Ricardo Gabriel Marques dos Santos Ruiz | 10389321 |
@@ -22,6 +21,7 @@ Descreva cada aplicação entre 3-5 parágrafos (“começo, meio e fim”). Em 
 Lembre-se de incluir todas as referências consultadas (livros, links de artigos, vídeos, etc.) e identificar todas as pessoas do grupo.
 
 Publique o resultado dessa atividade no blog.
+
 
 # Resultado
 
