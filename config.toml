@@ -1,6 +1,6 @@
 baseURL = "https://gabrielms201.github.io/"
 languageCode = "en-us"
-title = "My Blog"
+title = "Computação Visual"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 theme = "npq-hugo"
 pygmentsUseClasses=true
