@@ -58,7 +58,7 @@ O reconhecimento facial tem o potencial de melhorar significativamente a seguran
 
 Escolhemos essa aplicação por conta do grande crescimento e popularidade do uso da inteligência artificial nos dias atuais
 
-### Referências
+## Referências
 1. https://www.voitto.com.br/blog/artigo/o-que-e-computacao-grafica
 2. https://www.inf.pucrs.br/manssour/Publicacoes/TutorialSib2006.pdf
 3. https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
