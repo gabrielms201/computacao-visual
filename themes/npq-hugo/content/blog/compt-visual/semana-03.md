@@ -182,7 +182,7 @@ Supomos que tenhamos uma imagem de 24 bits de dimensão 2x3 representada da segu
 | (00, 01, 02) | (03, 04, 05) | (06, 07, 08) |
 | (09, 10, 12) | (13, 14, 15) | (16, 17, 18) |
 
-Podemos então dividir cada cor do RGB (RED GREEN BLUE) em um plano dividido por RGB (Red Green Blue):
+Podemos então dividir cada cor do RGB (RED GREEN BLUE) em um plano
 
 | \( | [R] | [G] | [B] | \)| |\(| [R] | [G] | [B] | \)| |\(| [R] | [G] | [B] | \) |
 |:--:|-----|-------|------|---|-|--|:---:|-------|------|---|-|--|:---:|-------|------|---|
