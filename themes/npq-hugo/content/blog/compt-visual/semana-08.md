@@ -159,9 +159,20 @@ while(!glfwWindowShouldClose(window))
 }
 ```
 
+## A descrição de um exemplo de aplicação que usa a API.
+Exemplo: Unity
+A unity é uma game engine, que dentre das apis gráficas suportadas, cabe citar o open gl
+A Unity é uma plataforma de desenvolvimento de jogos que permite a criação de jogos em 2D e 3D para várias plataformas, incluindo PC, consoles, dispositivos móveis e web. Lançada em 2005, a Unity se tornou uma das engines de jogos mais populares no mundo, conhecida por sua facilidade de uso e flexibilidade.
+
+Ela oferece um editor visual e a possibilidade de programação através de scripting, com ferramentas profissionais que atendem aos requisitos de qualquer tipo de jogo. Além disso, a Unity é utilizada em indústrias fora do desenvolvimento de jogos, como cinema, automotiva, arquitetura, engenharia, construção e até pelas Forças Armadas dos Estados Unidos.
+
+Com a Unity, desenvolvedores podem criar e crescer jogos em tempo real 3D, aplicativos e experiências para entretenimento, cinema, automotivo, arquitetura e muito mais. A Unity também é conhecida por suportar uma ampla gama de plataformas, o que a torna uma escolha versátil para desenvolvedores em todo o mundo.
+
 ### Referências
 - https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview
 - https://www.youtube.com/watch?v=W3gAzLwfIP0
 - https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
 - https://learnopengl.com/Getting-started/Shaders
 - https://www.youtube.com/watch?v=71BLZwRGUJE&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&index=7
+- https://unity.com/pt
+- https://docs.unity3d.com/Manual/OpenGLCoreDetails.html
