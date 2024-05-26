@@ -274,9 +274,9 @@ while (isRunning)
 O código acima faz com que a rotação vertical só aconteca caso a horizontal acabe e vice versa. Após o término das ambas, os contadores são resetados.
 
 ## Resultado:
-![Rotacao](/Rotacao.gif)
+![Rotacao](/images/Rotacao.gif)
 
-O código da implementação acima pode ser encontrada no github, no seguinte fork do repositório: (https://github.com/gabrielms201/computacao-visual-atividade-cubo)
+O código da implementação acima pode ser encontrada no github, no seguinte fork do repositório: (https://github.com/gabrielms201/computacao-visual-atividade-gcubo)
 
 
 # Referencias

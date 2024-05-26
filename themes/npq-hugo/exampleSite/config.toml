@@ -50,3 +50,10 @@ pygmentsUseClasses=true
     pre = "<i class=\"far fa-envelope\"></i>"
     url = "/contact"
     weight = -1 
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
